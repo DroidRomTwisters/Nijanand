@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">નિજાનંદ</string>
+    <string name="button2_text" translatable="false">lyrics</string>
+    <string name="button1_text" translatable="false">youtube</string>
+</resources>
